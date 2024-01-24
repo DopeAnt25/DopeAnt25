@@ -5,11 +5,12 @@ I'm a student at Northwest Missouri State University. I'm presusing my master's 
 
 ## About Me ...
 My intrest include
-- Listening to music
+- 🎧 Listening to music 🎧
   - I could go on and on about all my favorite types of music, I love all kinds but my favorite genre is hip-hop
-- Big video game guy
+- 🎮 Video Games 🎮
   - I mean come on this is what I want to do for a living of course I love videogames, I started when I was young and I knew when I was young that I wanted to do something with videogames whether that was playing games, testing games, or making games.
   - One of the games I'm playing through right now is Legend Of Zelda: Tears of The Kingdom
+
 ---
 
 ## Some of the projects I've worked on
